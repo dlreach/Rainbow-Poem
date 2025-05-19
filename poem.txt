@@ -5,4 +5,5 @@ Red
 Purple
 Orange
 Indigo
+Brown
 These are the colors of the rainbows and ponies.
